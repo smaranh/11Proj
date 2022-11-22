@@ -1,0 +1,11 @@
+/go.mod
+/go.sum
+/build-outputs
+/go-movies-crud
+
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
